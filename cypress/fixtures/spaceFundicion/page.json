@@ -1,0 +1,22 @@
+{
+    "webFundicion":"https://erp-qa.delfosti.site/#/sign-in",
+    "webAdmin":"https://erp-qa.delfosti.site/",
+
+    "email":{
+        "input":".mb-10 > .input-group > .form-control",
+        "data":{
+            "valid":"admin",
+            "invalid":""
+        }
+    },
+    "password":{
+        "input":".form-group.mb-5 > .input-group > .form-control",
+        "data":{
+            "valid":"12345678",
+            "invalid":""
+        }
+    },
+    "submitButton":".my-20 > .btn"
+
+
+}

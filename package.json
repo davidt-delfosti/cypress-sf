@@ -1,0 +1,17 @@
+{
+  "name": "automatizacion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open",
+    "test2": "cypress open"
+  },
+  "author": "david torres",
+  "license": "ISC",
+  "devDependencies": {
+    "@cypress/webpack-preprocessor": "^5.15.7",
+    "cypress": "^12.1.0"
+  }
+  
+}

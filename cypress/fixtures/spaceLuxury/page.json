@@ -1,0 +1,27 @@
+{
+    "webLuxury":"https://new2.uat.luxury.pe/ingreso/login",
+    "webIngreso":"https://new2.uat.luxury.pe/inicio",
+    "loginButton":{
+       "on": "Iniciar sesión",
+     "off" : " Categorías "
+    },
+
+    "username":{
+        "input":"[id='email']",
+        "data":{
+            "valid":"david.torres@delfosti.com",
+            "invalid":""
+        }
+    },
+    "password":{
+        "input":"[id='password']",
+        "data":{
+            "valid":"Delfosti123@",
+            "invalid":""
+        }
+    },
+    "submitButton":"[id='btnIniciar']",
+    "cerrarPoput":".fa-times",
+    "continuar":"#btnContinuar"
+
+}
